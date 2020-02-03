@@ -1,2 +1,4 @@
 # cla-testing
-asd
+
+foo
+bar
